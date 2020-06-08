@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 胡育玮 的个人主页
 
-You can use the [editor on GitHub](https://github.com/Fusionplay/Fusionplay.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育背景
+- 南京大学 计算机科学与技术系 17级本科在读
+- 机器学习相关课程：机器学习导论、模式识别、吴恩达机器学习、吴恩达深度学习
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 项目经历
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fusionplay/Fusionplay.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 2020.6-2020.8 DeeCamp 2020 人工智能训练营
+- 全球共入围200人
+- 选择的主题为**疫情防控信息咨询和心理疏导机器人**，项目正在进行中
 
-### Support or Contact
+#### 2020.4-2020.5 2020 华为软件精英挑战赛
+- 基于给定的资金流水，检测并输出指定约束条件下的所有循环转账，也即找出有向图中的环
+- 在团队中负责编写代码，实现了带记忆化搜索的DFS算法，搜索100万环用时低于5秒
+- 进入江山赛区（江苏、山东）初赛64强（第54名）
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 2019.7-2019.8 帝国理工学院 机器人与人工智能暑期学校 小机器人商业应用项目
+- 全校仅2个入围名额
+- 结合小机器人可用机械臂抓取物体和用摄像头获取图像数据的特性提出了让其帮助老人取物，应用于养老产业的商业模式，并为机器人的控制程序编写基于A\*算法的路径规划模块和语音识别模块
+- 团队获得第 2 
+
+#### 2018.10-2019.11 大学生创新项目 基于深度学习的声学场景识别
+- 使用CNN模块对预处理后的声音信号进行分类，准确率达到80%左右
+- 被评为国家级大学生创新项目
+
